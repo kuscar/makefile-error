@@ -10,6 +10,6 @@ Makefile for running tests on Apple MacBook
  
 ## Solution
 There are two (known) possible errors:
-   - error: only timeout => remove "--ignore-trailing-space" from Makefile or copy contents of Makefili/simple
-   - error: timeout and illegal character N => copy contents of Makefili/advanced
+   - error timeout => remove "--ignore-trailing-space" from Makefile or copy contents of Makefili/simple/
+   - error timeout and illegal character N => copy contents of Makefili/advanced/
  
